@@ -1,0 +1,6 @@
+{
+  "name": "دفتر الديون",
+  "description": "تطبيق إدخال صوتي أوفلاين مباشر لحسابات الديون والتسديدات في المحلات التجارية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
